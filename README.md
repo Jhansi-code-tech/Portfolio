@@ -10,7 +10,7 @@ It showcases my skills, projects, and contact information.
 - CSS3  
 
 ## 🌐 Live Portfolio
-https://jhansi-code-tech.github.io/Portfolio_Jhansi/
+https://jhansi-code-tech.github.io/Portfolio
 
 ## 📂 Project Structure
 - index.html – Main portfolio page  
