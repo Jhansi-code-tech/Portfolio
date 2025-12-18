@@ -9,7 +9,7 @@ It showcases my skills, projects, and contact information.
 - HTML5  
 - CSS3  
 
-## 🌐 Live Website
+## 🌐 Live Portfolio
 https://jhansi-code-tech.github.io/Portfolio_Jhansi/
 
 ## 📂 Project Structure
